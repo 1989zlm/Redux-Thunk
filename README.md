@@ -1,3 +1,10 @@
+
+![EkranKayd2024-02-2521 28 17-ezgif com-video-to-gif-converter](https://github.com/1989zlm/Redux-Thunk/assets/146070651/26b3efc1-f778-4560-8d15-5ea553fc7e74)
+
+#screen gif.
+
+
+
 ## Redux Thunk
 
 Redux thunk , redux kullanılan projelerde asenkron işlemleri kolayşlaştırmak bileşen içerisndeki karışılıklığı azaltmak ve aynı zamanda bileşen içseindeki kompleks yapıyı ayrı bir noktda tanımlamamızı sağlar.
